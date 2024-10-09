@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+  .md-50 {
+    width: 50%;
+  }
+}
+@media (min-width: 1024px) {
+  .md-50 {
+    width: 50%;
+  }
+}
+@media (min-width: 1024) {
+  .lg-25 {
+    width: 25%;
+  }
+}
